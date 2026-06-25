@@ -4,7 +4,7 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&duration=3000&pause=1000&color=70A5FD&center=true&vCenter=true&width=750&lines=Hi+there%2C+I%27m+Thomas+Alba+Edison+%F0%9F%91%8B;Java+Developer+%7C+Backend+Engineer;DSA+Problem+Solver+%7C+250%2B+Problems+Solved;Building+Scalable+%26+Reliable+Systems)](https://readme-typing-svg.demolab.com)
 
-[![Profile Views](https://komarev.com/ghpvc/?username=ThomasAlbaEdison&color=70a5fd&style=flat-square&label=Profile+Views)](https://github.com/ThomasAlbaEdison)
+[![Profile Views](https://komarev.com/ghpvc/?username=Edison-123&color=70a5fd&style=flat-square&label=Profile+Views)](https://github.com/Edison-123)
 
 </div>
 
@@ -87,11 +87,11 @@ public class ThomasAlbaEdison {
 
 <div align="center">
 
-<a href="https://github.com/ThomasAlbaEdison">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=ThomasAlbaEdison&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&bg_color=0d1117&title_color=70a5fd&icon_color=bf91f3&text_color=c9d1d9&border_radius=10"/>
+<a href="https://github.com/Edison-123">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Edison-123&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&bg_color=0d1117&title_color=70a5fd&icon_color=bf91f3&text_color=c9d1d9&border_radius=10"/>
 </a>
-<a href="https://github.com/ThomasAlbaEdison">
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ThomasAlbaEdison&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=70a5fd&text_color=c9d1d9&langs_count=8&border_radius=10"/>
+<a href="https://github.com/Edison-123">
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Edison-123&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=70a5fd&text_color=c9d1d9&langs_count=8&border_radius=10"/>
 </a>
 
 </div>
@@ -102,7 +102,7 @@ public class ThomasAlbaEdison {
 
 <div align="center">
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=ThomasAlbaEdison&theme=tokyonight-duo&hide_border=true&background=0D1117&ring=70A5FD&fire=BF91F3&currStreakLabel=70A5FD&sideLabels=38BDAE&dates=8B949E&currStreakNum=C9D1D9&sideNums=C9D1D9&stroke=0D1117&border_radius=10)](https://streak-stats.demolab.com)
+[![GitHub Streak](https://streak-stats.demolab.com?user=Edison-123&theme=tokyonight-duo&hide_border=true&background=0D1117&ring=70A5FD&fire=BF91F3&currStreakLabel=70A5FD&sideLabels=38BDAE&dates=8B949E&currStreakNum=C9D1D9&sideNums=C9D1D9&stroke=0D1117&border_radius=10)](https://streak-stats.demolab.com)
 
 </div>
 
@@ -112,7 +112,7 @@ public class ThomasAlbaEdison {
 
 <div align="center">
 
-[![Thomas's Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=ThomasAlbaEdison&theme=tokyo-night&bg_color=0d1117&color=70a5fd&line=bf91f3&point=38bdae&area=true&hide_border=true)](https://github.com/ThomasAlbaEdison)
+[![Thomas's Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Edison-123&theme=tokyo-night&bg_color=0d1117&color=70a5fd&line=bf91f3&point=38bdae&area=true&hide_border=true)](https://github.com/Edison-123)
 
 </div>
 
@@ -122,7 +122,7 @@ public class ThomasAlbaEdison {
 
 <div align="center">
 
-[![Trophies](https://github-profile-trophy.vercel.app/?username=ThomasAlbaEdison&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7&margin-w=4)](https://github.com/ThomasAlbaEdison)
+[![Trophies](https://github-profile-trophy.vercel.app/?username=Edison-123&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7&margin-w=4)](https://github.com/Edison-123)
 
 </div>
 
@@ -172,8 +172,8 @@ public class ThomasAlbaEdison {
 
 | 📁 Project | 🛠️ Stack | ✨ Highlights |
 |:---:|:---:|:---|
-| [**Java Socket Chat App**](https://github.com/ThomasAlbaEdison) | Java · JavaFX · MySQL · JDBC · Multithreading | Real-time public / private / group messaging; multithreaded client-server; OOP modular backend; concurrent user support |
-| [**Console Chess Game**](https://github.com/ThomasAlbaEdison) | Java · OOP · CLI · Git | Full chess rules in CLI; movement logic for all pieces; board state & turn management; move validation; Git version control |
+| [**Java Socket Chat App**](https://github.com/Edison-123) | Java · JavaFX · MySQL · JDBC · Multithreading | Real-time public / private / group messaging; multithreaded client-server; OOP modular backend; concurrent user support |
+| [**Console Chess Game**](https://github.com/Edison-123) | Java · OOP · CLI · Git | Full chess rules in CLI; movement logic for all pieces; board state & turn management; move validation; Git version control |
 
 </div>
 
@@ -226,11 +226,11 @@ public class ThomasAlbaEdison {
 <div align="center">
 
 [![Email](https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:thomas.a.edison05@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/ThomasAlbaEdison)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/ThomasAlbaEdison)
-[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=flat-square&logo=leetcode&logoColor=black)](https://leetcode.com/ThomasAlbaEdison)
-[![HackerRank](https://img.shields.io/badge/HackerRank-2EC866?style=flat-square&logo=hackerrank&logoColor=white)](https://hackerrank.com/ThomasAlbaEdison)
-[![Code360](https://img.shields.io/badge/Code360-FF6B35?style=flat-square&logo=codechef&logoColor=white)](https://www.naukri.com/code360/profile/ThomasAlbaEdison)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/Edison-123)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/Edison-123)
+[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=flat-square&logo=leetcode&logoColor=black)](https://leetcode.com/Edison-123)
+[![HackerRank](https://img.shields.io/badge/HackerRank-2EC866?style=flat-square&logo=hackerrank&logoColor=white)](https://hackerrank.com/Edison-123)
+[![Code360](https://img.shields.io/badge/Code360-FF6B35?style=flat-square&logo=codechef&logoColor=white)](https://www.naukri.com/code360/profile/Edison-123)
 
 </div>
 
