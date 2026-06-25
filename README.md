@@ -163,7 +163,7 @@ public class ThomasAlbaEdison {
 | 📁 Project | 🛠️ Stack | ✨ Highlights |
 |:---:|:---:|:---|
 | [**Java Socket Chat App**](https://github.com/Edison-123/Chat_Application) | Java · JavaFX · MySQL · JDBC · Multithreading | Real-time public / private / group messaging; multithreaded client-server; OOP modular backend; concurrent user support |
-| [**Console Chess Game**]([https://github.com/Edison-123/Console-Level-ChessGame]) | Java · OOP · CLI · Git | Full chess rules in CLI; movement logic for all pieces; board state & turn management; move validation; Git version control |
+| [**Console Chess Game**](https://github.com/Edison-123/Console-Level-ChessGame) | Java · OOP · CLI · Git | Full chess rules in CLI; movement logic for all pieces; board state & turn management; move validation; Git version control |
 
 </div>
 
@@ -202,11 +202,10 @@ public class ThomasAlbaEdison {
 ## 📚 Currently Learning
 
 ```
-🌱 Spring Ecosystem  →  Spring Boot · Spring MVC · Spring Data JPA · Spring Security
-🏗️ System Design     →  Scalability · Load Balancing · Caching · Database Sharding
+🌱 Spring Ecosystem  →  Spring Boot · Spring MVC · Spring Data JPA · Spring Securit
 ⚡ Microservices     →  REST Principles · API Gateway · Service Discovery
-🧠 Advanced DSA      →  Graphs · Dynamic Programming · Trees · Segment Trees
-🐳 DevOps Basics     →  Docker · CI/CD Pipelines · Linux Administration
+🧠 Advanced DSA      →  Linked List · Graphs · Dynamic Programming · Trees · Segment Trees
+🐳 Core Subjects     →  Operating System
 ```
 
 ---
